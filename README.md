@@ -1,1 +1,16 @@
 # CS-255-System-Analysis-and-Design
+
+# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+DriverPass was a startup company that wanted us to create their new system from the ground up. They noticed that there is a lack of new driver resources out there on the market, and wanted to create something innovative that revolutionized how young people learned to drive. The system needed to do things like registering accounts, updating personal information, buying packages, record driving history, record testing progress, etc. We needed to create a system over the cloud that was user-friendly and easy to operate. Overall, the system itself was pretty simple, which was perfect because the client didn't want anything too complicated because they did not want to have to deal with any extra bugs or issues that might arise from a more complicated system. They wanted to be purely focused on their product, and not the system itself.
+
+# What did you do particularly well?
+I think my UML diagrams were good, they were organized well and were easy to read and understand.
+
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could revise something, it would probably be the nonfunctional requirements section of the business requirements document. Looking back on it, I wasn't nearly as detailed as I should have been when it came to performance requirements, platform constraints, accuracy and precision, adaptability, and security. Even though it wasn't that long ago, I feel like in the 3 or 4 weeks ago since I submitted that, I feel like I have learned a lot more about those topics, and could come up with much better answers now.
+
+# How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+It's important to consider the user's needs because it ultimately leads to a more positive user experience. You have to look at it through the eyes of the user, and imagine you're in their shoes. How would you want it to look, how would you want it to operate? You have to ask yourself those questions to understand what the user really wants and needs from the system. For this project, I looked at the sketch that the CEO came up with for the interface, and I really tried to imagine myself navigating that screen, and imagining how I would want it to operate and feel. I tried to think about what I would want certain things to do, and how certain pages and sections should function.
+
+# How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+When designing software, I'd like to think that I try to simplify the process, and try not to overcomplicate it. I think it's important to break it down into smaller sections, and try to complete those smaller tasks/goals instead of trying to create a big jumbled mess all at once. I think trying to finish bigger tasks instead of focusing on smaller ones can lead to confusion and misinterpreted expectations. It's best to focus on smaller goals at first, not only to keep things organized and efficient, but also to keep yourself motivated and focused.
